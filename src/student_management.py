@@ -62,8 +62,6 @@ class Enrollment:
         """Return a list of students enrolled in a course."""
         return course.students
 
-
-# Example usage
 if __name__ == "__main__":
     enrollment = Enrollment()
     s1 = enrollment.add_student(1, "Alice", "alice@example.com")
