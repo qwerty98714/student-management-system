@@ -23,6 +23,5 @@ classDiagram
         +get_courses(student: Student)
         +get_students(course: Course)
     }
-    Student "1" <-- "0..*" Enrollment
-    Course "1" <-- "0..*" Enrollment
+   
 ```
