@@ -1,2 +1,3 @@
 # student-management-system
-An object-oriented student management system for lab assignment 4 (collective development, UML, code review).
+
+Объектно-ориентированная система управления студентами для лабораторной работы №4 ( совместная разработка, UML, обзор кода ).
